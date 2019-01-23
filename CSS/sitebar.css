@@ -1,0 +1,1270 @@
+
+.block1 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block1:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar1:hover~.block1{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block2 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block2:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:42px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar2:hover~.block2{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:42px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block3 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block3:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:75px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar3:hover~.block3{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:75px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+.block4 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px;  
+	z-index: 9999;
+	background:#fff;
+}
+.block4:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:110px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar4:hover~.block4{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:110px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block5 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block5:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:140px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar5:hover~.block5{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:140px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block6 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block6:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:175px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar6:hover~.block6{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:175px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+.block7 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block7:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:210px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar7:hover~.block7{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:210px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+.block8 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block8:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:240px;
+		left: 280px;  
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar8:hover~.block8{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:240px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+.block9 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block9:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:275px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar9:hover~.block9{
+	display: block;
+ width: 300px;
+	position: absolute;
+	left: 280px; 
+	top:275px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block10 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block10:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:310px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar10:hover~.block10{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:310px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block11 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block11:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:340px;
+		left: 280px;  
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar11:hover~.block11{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:340px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block12 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block12:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:375px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar12:hover~.block12{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:375px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block13 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block13:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:410px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar13:hover~.block13{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top:410px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block14 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+		left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block14:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 440px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar14:hover~.block14{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 440px;
+		left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block15 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top: 602px;
+		left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block15:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 475px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+
+#bar15:hover~.block15{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 475px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block16 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:645px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block16:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 505px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar16:hover~.block16{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 505px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block17 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 280px; 
+	
+	z-index: 9999;
+	background:#fff;
+}
+.block17:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 535px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar17:hover~.block17{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 535px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block18 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block18:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 570px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar18:hover~.block18{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 570px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block19 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block19:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 605px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar19:hover~.block19{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 605px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+
+.block20 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block20:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 635px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar20:hover~.block20{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 635px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block21 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block21:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 670px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar21:hover~.block21{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 670px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block22 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block22:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 700px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar22:hover~.block22{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 700px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block23 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block23:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 735px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar23:hover~.block23{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 735px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block24 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block24:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 770px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar24:hover~.block24{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 770px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block25 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block25:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 800px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar25:hover~.block25{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 800px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block26 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block26:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 835px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+
+#bar26:hover~.block26{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 835px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block27 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block27:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 870px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar27:hover~.block27{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 870px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block28 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block28:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 900px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar28:hover~.block28{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 900px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block29 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block29:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 935px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar29:hover~.block29{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 935px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block30 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block30:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 970px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar30:hover~.block30{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 970px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block31 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block31:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1000px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar31:hover~.block31{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1000px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block32 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff;
+}
+.block32:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1035px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;
+}
+#bar32:hover~.block32{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1035px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block33 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block33:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1070px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar33:hover~.block33{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1070px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block34 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 290px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block34:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1100px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar34:hover~.block34{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1100px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block35 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block35:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1135px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar35:hover~.block35{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1135px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block36 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block36:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+		top: 1165px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar36:hover~.block36{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1165px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block37 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block37:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1195px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar37:hover~.block37{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1195px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block38 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block38:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+top: 1230px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar38:hover~.block38{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1230px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block39 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block39:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1265px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar39:hover~.block39{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1265px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block40 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block40:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1300px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar40:hover~.block40{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1300px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block41 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block41:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1330px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar41:hover~.block41{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1330px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+.block42 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block42:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+top: 1365px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar42:hover~.block42{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1365px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block43 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block43:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1395px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar43:hover~.block43{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1395px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block44 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block44:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1430px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar44:hover~.block44{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1430px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;   
+}
+.block45 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block45:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1460px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar45:hover~.block45{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1460px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;   
+}
+.block46 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block46:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1495px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+}
+#bar46:hover~.block46{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1495px;
+left: 280px; 
+	z-index: 9999;
+	background:#fff;  
+}
+.block47 {
+	display: none;
+	width: 300px;
+	position: absolute;
+	top:0px;
+	left: 300px;
+}
+.block47:hover{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1525px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff; 
+} 
+#bar47:hover~.block47{
+	display: block;
+ width: 300px;
+	position: absolute;
+	top: 1525px;
+	left: 280px; 
+	z-index: 9999;
+	background:#fff;   
+}
+
