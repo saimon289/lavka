@@ -63,4 +63,213 @@
     max-width: 300px;
     margin-left: 105px;
 }
+.reklama span{
+	margin: 0px;
+}
+}
+
+
+@media only screen  and (max-width: 1024px){
+	
+	.top_menu ul li:first-child{
+		margin-left: 14px;
+	}
+	.top_menu ul li{
+		padding: 20px 30px;
+	}
+	.left-site-bar{
+		width: 340px;
+		margin-left: 14px; 
+	}
+
+	.search input {
+		width: 310px;
+	}
+
+	.content_site {
+		max-width: 670px;
+		margin-left: 5px;
+	}
+	.banner{
+        margin-left: 5px;
+	}
+	.banner img {
+    max-width: 670px;
+}
+.zagolovok{
+	max-width: 670px;
+	margin-left: 5px;
+}
+
+.bigslide {
+	max-width: 670px;
+	margin-left: 5px;
+}
+
+.tovar {
+	max-width: 215px;
+	margin: 20px 2px;
+}
+.NewS {
+	max-width: 670px;
+	margin-left: 5px;
+}
+.NEWSTAB {
+	max-width: 670px;
+	margin-left: 5px;
+
+}
+.left-site-bar ul li{
+	padding: 5.5px 0px;
+}
+.read{
+	margin-left: 5px;
+}
+.content_box{
+	padding: 5px;
+	max-width: 670px; 
+	margin-left: 5px;
+}
+.nalich{
+	margin-left: 100px;
+}
+.bottommenu ul li:first-child{
+	margin-left:  90px; 
+}
+.bottommenu ul li:last-child{
+	margin-right: 0px; 
+}
+.navinfo ul {
+    list-style: none;
+     margin: 0px; 
+}
+.navigateMe h3 {
+	margin-left: 15px;
+}
+.slide3 input {
+	right: 100px;
+}
+.slide2 input {
+	right: 100px;
+}
+.slide1 input {
+	right: 100px;
+}
+.bot1 {
+    width: 25%;
+}
+.bot2 {
+    width: 25%;
+    text-align: center;
+}
+.bot3 {
+    width: 44%;
+    
+}
+.navinfo {
+	padding: 15px;
+}
+.search {
+	margin-left: 35px;
+}
+}
+
+@media only screen  and (max-width: 768px){
+  .logo {
+  	display: none;
+  }
+.position {
+	bottom: 12px;
+}
+.butmenu {
+	display: block;
+	text-align: right;
+	padding-right: 20px;
+	font-size: 40px;
+
+}
+
+.butmenu i:last-child {
+    margin-left: 87%;
+}
+.top_menu ul {
+	height: 0px;
+	overflow: hidden;
+	transition: all 1s ease;
+}
+.top_menu ul li{
+	display: block;
+}
+.top_menu ul li:first-child {
+	margin-left: 0px;
+}
+
+.index_content {
+	position: relative;
+}
+.left-site-bar {
+	position: absolute;
+	left: -360px;
+	z-index: 9999;
+}
+.content_site{
+	height: 300px;
+}
+.slide1 img {
+	max-width: 670px;
+}
+.slide2 img {
+	max-width: 670px;
+}
+.slide3 img {
+	max-width: 670px;
+}
+.imgreklama {
+	display: none;
+}
+
+.content_box {
+	    margin-left: 20px;
+}
+
+.bottommenu ul li {
+	margin-right: 55px;
+}
+.navinfo {
+	width: 668px;
+	overflow: scroll;
+	padding: 0px;
+}
+.navinfo ul {
+	display: inline-block;
+	width: 350px !important;
+	margin-right: 30px;
+}
+.navinfo ul li {
+	width: 200px;
+}
+
+.bot3 {
+    width: 50%;
+}
+.bot2 {
+    width: 30%;
+   
+}
+.bot1 {
+	width: 20%;
+   
+}
+.reklama {
+	display: none;
+}
+.reklama1 {
+	display: none;
+}
+.myclass {
+	left: 0px;
+}
+.myclass2 {
+	height: 450px !important;
+}
 }

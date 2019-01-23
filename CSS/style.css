@@ -1,10 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=cyrillic');
+
 * {
 	padding: 0;
 	margin: 0;
-
+font-family: 'Open Sans', sans-serif;
 }
 body {
 background:#ffd7a2;
+
 }
 header {
 	display: flex;
@@ -12,15 +15,17 @@ header {
 
 }
 
-.top {
+.top { 
 	padding-top: 20px;
 	color: #5c2811;
 	justify-content: center;
-	width: 100%;
+	width: 100%;       
 	display: flex;
 	margin:0 auto;
 	background:#ffd7a2;
 	margin-bottom: 30px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
 }
 
 .logo {
@@ -115,7 +120,9 @@ header {
 	justify-content: center;
 	display: block;
 }
-
+.butmenu {
+	display: none;
+}
 .top_menu ul {
 	 
 	list-style: none;
@@ -177,7 +184,12 @@ header {
 	position: relative;
 	max-width: 300px;
 	margin-left: 225px;
-}
+	font-family: 'Open Sans', sans-serif;
+	transition: 1s all ease;
+	background: #fff;
+
+	
+} 
 .left-site-bar ul  {
    list-style: none;
    border-radius: 5px ;
@@ -188,8 +200,8 @@ header {
 .left-site-bar ul  li {
     cursor: pointer;
     border-bottom: 2px solid #ebd9db;
-	font-size: 18px;
-	padding:   5px ;
+	font-size: 15px; 
+	padding:   5.5px ;
 }
 .left-site-bar ul  li:first-child{
 	padding: 10px;
@@ -296,6 +308,8 @@ header {
 	max-width: 250px;
 	text-align: center;
 	padding-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px; 
 }
 
 .tovar img {
@@ -477,6 +491,7 @@ header {
 }
 footer {
 	color: #5c2811;
+	font-size: 14px;
 }
 .bottommenu {
 	margin:0 auto;
@@ -497,6 +512,8 @@ footer {
 	font-size: 16px;
 	display: inline-block;
 	margin-right: 95px;
+	font-size: 14px;
+	cursor: pointer;
 }
 
 .nav {
@@ -528,7 +545,7 @@ footer {
 }
 
 .navinfo ul li {
-	margin: 10px;
+	margin: 10px 0px;
 }
 
 .wrap {
