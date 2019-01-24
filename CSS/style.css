@@ -591,3 +591,7 @@ footer {
     font-size: 12px;
     cursor: pointer;
 }
+
+.categories {
+	display: none;
+}

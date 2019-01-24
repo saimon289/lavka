@@ -192,10 +192,26 @@
 .butmenu i:last-child {
     margin-left: 87%;
 }
+.top_menu {
+	position: relative;
+	background: #ffd7a2;
+}
+.categories {
+	display: block;
+	font-size: 25px;
+	background: #84151f;
+	color: #fff;
+	text-align: center;
+}
 .top_menu ul {
+	position: absolute;
+	top:50px;
+	right: 0;
 	height: 0px;
+	max-width: 200px;
 	overflow: hidden;
 	transition: all 1s ease;
+	z-index: 9999;
 }
 .top_menu ul li{
 	display: block;
@@ -272,4 +288,84 @@
 .myclass2 {
 	height: 450px !important;
 }
+}
+
+@media only screen  and (max-width: 425px){
+
+	.top {
+		width: 425px;
+	display: block;
+	}
+.content_box{
+	max-width: 370px;
+	margin-left: 0;
+}
+.content_site {
+	height: 160px;
+}
+.slide1 img {
+	max-width: 370px;
+}
+.slide2 img {
+	max-width: 370px;
+}
+.slide3 img {
+	max-width: 370px;
+}
+
+.bigslide{
+	max-width: 220px;
+	overflow: hidden;
+	margin:0 auto;
+}
+.NEWSTAB  {
+	max-width: 220px;
+	overflow: hidden;
+	margin:0 auto;
+}
+.readText p:first-child{
+	display: none;
+
+}
+.readText p:last-child{
+      display: none;
+}
+	.navinfo{
+		width: 425px;
+	}
+	.banner{
+		max-width: 400px;
+	}
+	.banner img{
+	max-width: 375px;	
+	}
+	.butmenu i:last-child {
+       margin-left: 75%;
+   }
+   .search{
+   	justify-content: center;
+   	margin: 0;
+   	text-align: center;
+   }
+   .search input {
+   	width: 250px;
+   	margin: 20px auto;	
+   }
+
+   .position {
+   	bottom:28px;
+   	left: 250px;
+   }
+
+   .info {
+   	display: none;
+   }
+   .social {
+   	display: none;
+   }
+
+   .korzina {
+   	max-width: 150px;
+   	margin: 0 auto;
+   }
 }
