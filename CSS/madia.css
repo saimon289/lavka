@@ -312,6 +312,21 @@
 .slide3 img {
 	max-width: 370px;
 }
+.slide1 input {
+	right: 20px;
+	bottom: 10px;
+	padding: 10px 10px;	
+}
+.slide2 input {
+	right: 20px;
+	bottom: 10px;
+	padding: 10px 10px;	
+}
+.slide3 input {
+	right: 20px;
+	bottom: 10px;
+	padding: 10px 10px;	
+}
 
 .bigslide{
 	max-width: 220px;
@@ -367,5 +382,25 @@
    .korzina {
    	max-width: 150px;
    	margin: 0 auto;
+   }
+   .bottommenu {
+   	display: none;
+   }
+
+   .bottom {
+   	display: block;
+   	text-align: center;
+   }
+   .bot1 {
+   	width: 100%;
+   		text-align: center;
+   }
+    .bot2 {
+   	width: 100%;
+   		text-align: center;
+   }
+    .bot3 {
+   	width: 100%;
+   		text-align: center;
    }
 }
