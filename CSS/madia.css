@@ -648,6 +648,7 @@
 }
 .content_site {
 	height: 160px;
+	margin-left: 0;
 }
 .slide1 img {
 	max-width: 370px;
@@ -675,7 +676,7 @@
 }
 
 .bigslide{
-	max-width: 220px;
+	max-width: 302px;
 	overflow: hidden;
 	margin:0 auto;
 }
